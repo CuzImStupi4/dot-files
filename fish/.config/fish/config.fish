@@ -1,7 +1,23 @@
 # aliases
 
-alias ls "eza --icons"
+
+alias ls="eza -a --icons"
 alias treelist "tree -a -I '.git'"
+alias cls "clear"
+
+alias pacman "sudo pacman"
+
+
+
+# git aliases
+alias ga "git add ."
+alias gc "git commit -m"
+alias gp "git push"
+
+alias .. "cd .."
+alias ... "cd ../.."
+
+alias updatemyfuckingsystem "sudo pacman -Syu"
 
 # prevents apps from closing when closing terminal
 # usage: stay <command>
