@@ -13,6 +13,8 @@ alias pacman "sudo pacman"
 alias ga "git add ."
 alias gc "git commit -m"
 alias gp "git push"
+alias gdf "git diff origin/main"
+
 
 alias .. "cd .."
 alias ... "cd ../.."
