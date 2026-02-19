@@ -14,7 +14,7 @@ alias ga "git add ."
 alias gc "git commit -m"
 alias gp "git push"
 alias gdf "git diff origin/main"
-
+alias ggp "git pull"
 
 alias .. "cd .."
 alias ... "cd ../.."
