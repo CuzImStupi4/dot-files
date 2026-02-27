@@ -6,7 +6,7 @@ alias treelist "tree -a -I '.git'"
 alias cls "clear"
 
 alias pacman "sudo pacman"
-
+alias ff "fastfetch --config /home/cuzimstupi4/.local/share/fastfetch/presets/hypr"
 
 
 # git aliases
