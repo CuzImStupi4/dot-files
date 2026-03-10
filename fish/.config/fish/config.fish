@@ -21,6 +21,8 @@ alias ... "cd ../.."
 
 alias updatemyfuckingsystem "sudo pacman -Syu"
 
+export TERM=xterm-256color
+
 # prevents apps from closing when closing terminal
 # usage: stay <command>
 function stay
