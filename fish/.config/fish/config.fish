@@ -15,6 +15,7 @@ alias gc "git commit -m"
 alias gp "git push"
 alias gdf "git diff origin/main"
 alias ggp "git pull"
+alias gacptest "ga & gc test && gp"
 
 alias .. "cd .."
 alias ... "cd ../.."
