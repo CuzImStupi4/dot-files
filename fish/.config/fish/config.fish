@@ -6,7 +6,7 @@ alias treelist "tree -a -I '.git'"
 alias cls "clear"
 
 alias pacman "sudo pacman"
-alias ff "fastfetch --config /home/cuzimstupi4/.local/share/fastfetch/presets/hypr"
+alias ff "fastfetch --config /home/cuzimstupi4/.local/share/fastfetch/presets/ascii-art2.jsonc"
 
 
 # git aliases
@@ -108,7 +108,7 @@ fish_add_path /usr/local/bin
 fish_add_path /opt/bin
 
 # set editor
-set -x EDITOR "vim"
+set -x EDITOR "nvim"
 
 set QT_QPA_PLATFORM xcb
 
